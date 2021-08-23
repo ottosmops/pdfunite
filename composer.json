@@ -1,0 +1,39 @@
+{
+    "name": "ottosmops/pdfunite",
+    "description": "Glue PDFs together",
+    "keywords": [
+        "laravel",
+        "anton",
+        "ottosmops",
+        "pdfunite"
+    ],
+    "authors": [
+        {
+            "name": "ak",
+            "email": "kraenzle@k-r.ch",
+            "homepage": "https://wwwk-r.ch"
+        }
+    ],
+    "homepage": "https://github.com/ottosmops/pdfunite",
+    "license": "MIT",
+    "require": {
+        "php": ">= 7.4",
+        "symfony/process": ">=5.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": ">=8.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ottosmops\\Pdfunite\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Ottosmops\\Pdfunite\\Test\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit"
+    }
+}
