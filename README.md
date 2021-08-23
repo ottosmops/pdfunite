@@ -1,6 +1,6 @@
 # Glue PDFs together
 
-[![GitHub license](https://img.shields.io/github/license/ottosmops/pdfunite.svg)](https://github.com/ottosmops/pdfunite/blob/master/LICENSE.md)
+[![GitHub license](https://img.shields.io/github/license/ottosmops/pdfunite)](https://github.com/ottosmops/pdfunite/blob/master/LICENSE.md)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ottosmops/pdfunite/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ottosmops/pdfunite/?branch=master)
 [![Code Coverage](https://scrutinizer-ci.com/g/ottosmops/pdfunite/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/ottosmops/pdfunite/?branch=master)
 [![Build Status](https://scrutinizer-ci.com/g/ottosmops/pdfunite/badges/build.png?b=master)](https://scrutinizer-ci.com/g/ottosmops/pdfunite/build-status/master)
